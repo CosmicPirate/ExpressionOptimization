@@ -1,0 +1,7 @@
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimizerTest\bin\Debug\ExpressionOptimizerTest.dll
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimizerTest\bin\Debug\ExpressionOptimizerTest.pdb
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimizerTest\bin\Debug\ExpressionOptimize.exe
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimizerTest\bin\Debug\ExpressionOptimize.pdb
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimizerTest\obj\Debug\ExpressionOptimizerTest.csprojResolveAssemblyReference.cache
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimizerTest\obj\Debug\ExpressionOptimizerTest.dll
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimizerTest\obj\Debug\ExpressionOptimizerTest.pdb

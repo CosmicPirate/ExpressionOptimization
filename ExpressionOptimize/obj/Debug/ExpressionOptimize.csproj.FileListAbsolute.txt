@@ -1,0 +1,6 @@
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimize\bin\Debug\ExpressionOptimize.exe.config
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimize\bin\Debug\ExpressionOptimize.exe
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimize\bin\Debug\ExpressionOptimize.pdb
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimize\obj\Debug\ExpressionOptimize.exe
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimize\obj\Debug\ExpressionOptimize.pdb
+D:\Projects\C#\ExpressionOptimize\ExpressionOptimize\obj\Debug\ExpressionOptimize.csprojResolveAssemblyReference.cache
